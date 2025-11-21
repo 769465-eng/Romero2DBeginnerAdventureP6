@@ -6,7 +6,7 @@ using UnityEngine.InputSystem;
 
 public class PlayerControler : MonoBehaviour
 {
-    public InputAction LeftAction;
+    public InputAction MoveAction;
     public float speed = 10.0f;
     // Start is called before the first frame update
     void Start()
